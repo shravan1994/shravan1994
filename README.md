@@ -8,4 +8,3 @@
 ## ⚡ Tech Stack
 Python | React | FastAPI | Flask | Spark | Airflow | Docker | Kubernetes | AWS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)

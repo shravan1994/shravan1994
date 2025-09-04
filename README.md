@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @shravan1994
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Shravan 👋
 
-<!---
-shravan1994/shravan1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m working on **Data Engineering & FastAPI projects**
+- 🌱 Exploring **Spark, Airflow, and scalable systems**
+- 💬 Ask me about **Python, APIs, and Big Data**
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/iamshravan)
+
+## ⚡ Tech Stack
+Python | React | FastAPI | Flask | Spark | Airflow | Docker | Kubernetes | AWS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
